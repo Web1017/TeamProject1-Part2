@@ -86,8 +86,6 @@
     <Content Include="Assets\Images\counterstrike.jpg" />
     <Content Include="Assets\Images\counterstrike.png" />
     <Content Include="Assets\Images\counterstrikeBigImage.jpg" />
-    <Content Include="Assets\Images\fifa1.jpg" />
-    <Content Include="Assets\Images\fifa17.jpg" />
     <Content Include="Assets\Images\fifa17Background.jpg" />
     <Content Include="Assets\Images\fifaTextLogo.png" />
     <Content Include="battleFieldPage.aspx" />
